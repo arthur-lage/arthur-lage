@@ -1,4 +1,4 @@
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-lage&show_icons=true&theme=tokyonight)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-lage&show_icons=true&theme=synthwave)
 
 <!---
 arthur-lage/arthur-lage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
