@@ -1,5 +1,3 @@
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-lage)](https://github.com/anuraghazra/github-readme-stats)
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-lage&count_private=true)
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-lage&show_icons=true&theme=tokyonight)
 
 <!---
