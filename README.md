@@ -1,23 +1,22 @@
-# Arthur Lage
+# Oii, eu me chamo Arthur Lage
 
----
+<div>
+  <a href="https://github.com/arthur-lage">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthur-lage&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-lage&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-<img src="https://gist.githubusercontent.com/rowhitswami/8e1b262ffc0f2368890b72fbe26bacb5/raw/068f8cb8d21e579e5d46f75918c64eeaf97f19a0/hello.gif">
+<div style="display: inline_block"><br>
+  ## Linguagens / Frameworks
+  <img align="center" alt="Arthur-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Arthur-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
----
-
-🎒 Almost graduating in English.
-
-📚 I am currently learning HTML, CSS and JS. I also want to learn React, Bootstrap, C#, etc.
-
-📫 How to reach me: You can send an email to: arthurlage2006@gmail.com
-
-💻 Currently taking the CS50's Web Programming with Python and JavaScript from HarvardX 
-
----
-
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-lage&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
----
+<div>
+  <a href="https://instagram.com/arthur._lage" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: arthurlage2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/arthur-lage-048635206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
