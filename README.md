@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **arthurlage2006@gmail.com**
 
-- ⚡ Fun fact **I am a really determined person, not someone who gives up easily.**
+- ⚡ Fun fact **I am a really determined person, definitely not someone who gives up easily.**
 
 <h3 align="left">Connect with me:</h3>
 
