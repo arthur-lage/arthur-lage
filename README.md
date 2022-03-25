@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthur-lage" alt="arthur-lage" /></a> </p>
 
-- 🔭 I’m currently working on [Apple Website Clone](https://github.com/arthur-lage/apple)
+- 🔭 I’m currently working on [Virtual Keyboard](https://github.com/arthur-lage/virtual-keyboard)
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
 
