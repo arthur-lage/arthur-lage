@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthur-lage" alt="arthur-lage" /></a> </p>
 
-- 🔭 I’m currently working on [Virtual Keyboard](https://github.com/arthur-lage/virtual-keyboard)
+- 🔭 I’m currently working on [Portifolio](https://github.com/arthur-lage/portifolio)
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
 
@@ -34,34 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-lage&" alt="arthur-lage" /></p>
 
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-  
   ![Snake animation](https://github.com/arthur-lage/arthur-lage/blob/output/github-contribution-grid-snake.svg)
 </div>
