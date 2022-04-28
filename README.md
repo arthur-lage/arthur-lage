@@ -33,6 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthur-lage&show_icons=true&locale=en" alt="arthur-lage" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthur-lage&" alt="arthur-lage" /></p>
-
-  ![Snake animation](https://github.com/arthur-lage/arthur-lage/blob/output/github-contribution-grid-snake.svg)
 </div>
