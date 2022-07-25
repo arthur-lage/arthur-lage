@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arthur</h1>
 
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<h3 align="center">A passionate frontend developer from Minas Gerais, Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur-lage&label=Profile%20views&color=0e75b6&style=flat" alt="arthur-lage" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthur-lage" alt="arthur-lage" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthur-lage" alt="arthur-lage" /></a> </p>
 
 - 🔭 I’m currently working on [e-commerce-app](https://github.com/arthur-lage/e-commerce-app)
 
