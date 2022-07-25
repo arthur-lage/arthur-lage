@@ -6,21 +6,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthur-lage" alt="arthur-lage" /></a> </p>
 
-- 🔭 I’m currently working on [Portifolio](https://github.com/arthur-lage/portifolio)
+- 🔭 I’m currently working on [E-commerce-app](https://github.com/arthur-lage/e-commerce-app)
 
-- 🌱 I’m currently learning **ReactJS and NodeJS**
+- 🌱 I’m currently learning **SOLID principles, Typescript, NodeJS, Postgresql, NextJS**
 
 - 💬 Ask me about **HTML, CSS, JavaScript or ReactJS**
 
 - 📫 How to reach me **arthurlage2006@gmail.com**
 
-- ⚡ Fun fact **I am a really determined person, definitely not someone who gives up easily.**
+- ⚡ Fun fact **I started programming when I was 10, creating games on Unity.**
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 
-<a href="https://instagram.com/arthur_.lage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthur_.lage" height="30" width="40" /></a>
+<a href="https://instagram.com/arthur._lage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arthur._lage" height="30" width="40" /></a>
 
 </p>
 
