@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthur-lage" alt="arthur-lage" /></a> </p>
 
-- 🔭 I’m currently working on [e-commerce-app](https://github.com/arthur-lage/e-commerce-app)
+- 🔭 I’m currently working on this personal project: [money-management](https://github.com/arthur-lage/money-management)
 
 - 🌱 I’m currently learning **SOLID principles, NodeJS, Postgresql, Typescript, NextJS and Unit Testing**
 
