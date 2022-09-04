@@ -16,8 +16,6 @@
 
 ## GitHub Stats 📈
 
-<p>Coding Streak: 16 days</p>
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
