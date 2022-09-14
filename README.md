@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on this personal project: [money-management](https://github.com/arthur-lage/money-management)
 
-- 🌱 I’m currently learning **SOLID principles, NodeJS, Postgresql, Typescript, NextJS and Unit Testing**
+- 🌱 I’m currently learning **SOLID principles, NodeJS, Postgresql, Typescript and Unit Testing**
 
 - 💬 Ask me about **Javascript, NodeJS, HTML, CSS**
 
