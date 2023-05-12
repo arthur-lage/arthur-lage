@@ -4,15 +4,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arthur-lage" alt="arthur-lage" /></a> </p>
 
-- 🔭 I’m currently working on this personal project: [money-management](https://github.com/arthur-lage/money-management)
-
-- 🌱 I’m currently learning **SOLID principles, NodeJS, Postgresql, Typescript and Unit Testing**
-
-- 💬 Ask me about **Javascript, NodeJS, HTML, CSS**
+- 🌱 I’m currently learning **Vue 3**
 
 - 📫 How to reach me **arthurlage2006@gmail.com**
-
-- ⚡ Fun fact **I code since I was 10 years old, I started by creating games on Unity.**
 
 ## GitHub Stats 📈
 
@@ -48,6 +42,8 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
 ##
@@ -56,8 +52,6 @@
   
 <div align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="auto" width="40" style="border-radius:50%" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
