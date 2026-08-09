@@ -8,7 +8,7 @@
 - 📖 I am currently studying Computer Engineering at Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)  
   
 
-- 🌱 I’m currently learning C++  
+- 🌱 I’m currently learning Java Spring Boot
   
 
 - 📨 My email for contact is: [arthurlage2006@gmail.com](arthurlage2006@gmail.com)  
